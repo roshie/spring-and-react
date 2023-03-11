@@ -3,8 +3,6 @@ The following was discovered as part of building this project:
 
 * The original package name 'react.spring.spring-and-react' is invalid and this project uses 'react.spring.springandreact' instead.
 
-
-
 # Getting Started
 
 
